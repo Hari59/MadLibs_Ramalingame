@@ -8,8 +8,8 @@
 
     <TextView
         android:id="@+id/adjTV"
-        android:layout_width="200dp"
-        android:layout_height="50dp"
+        android:layout_width="@dimen/width"
+        android:layout_height="@dimen/height"
         android:layout_marginTop="44dp"
         android:layout_marginEnd="208dp"
         android:paddingLeft="50dp"
@@ -20,8 +20,8 @@
 
     <TextView
         android:id="@+id/NounTV"
-        android:layout_width="200dp"
-        android:layout_height="50dp"
+        android:layout_width="@dimen/width"
+        android:layout_height="@dimen/height"
         android:layout_marginTop="108dp"
         android:layout_marginEnd="208dp"
         android:paddingLeft="50dp"
@@ -32,8 +32,8 @@
 
     <TextView
         android:id="@+id/verbTV"
-        android:layout_width="200dp"
-        android:layout_height="50dp"
+        android:layout_width="@dimen/width"
+        android:layout_height="@dimen/height"
         android:layout_marginTop="236dp"
         android:layout_marginEnd="208dp"
         android:paddingLeft="50dp"
@@ -44,8 +44,8 @@
 
     <TextView
         android:id="@+id/numberTV"
-        android:layout_width="200dp"
-        android:layout_height="50dp"
+        android:layout_width="@dimen/width"
+        android:layout_height="@dimen/height"
         android:layout_marginTop="300dp"
         android:layout_marginEnd="208dp"
         android:paddingLeft="50dp"
@@ -56,8 +56,8 @@
 
     <EditText
         android:id="@+id/numberTE"
-        android:layout_width="200dp"
-        android:layout_height="50dp"
+        android:layout_width="@dimen/width"
+        android:layout_height="@dimen/height"
         android:layout_marginTop="300dp"
         android:layout_marginEnd="8dp"
         android:ems="10"
@@ -67,8 +67,8 @@
 
     <EditText
         android:id="@+id/adverbTE"
-        android:layout_width="200dp"
-        android:layout_height="50dp"
+        android:layout_width="@dimen/width"
+        android:layout_height="@dimen/height"
         android:layout_marginTop="172dp"
         android:layout_marginEnd="8dp"
         android:ems="10"
@@ -78,8 +78,8 @@
 
     <EditText
         android:id="@+id/verbTE"
-        android:layout_width="200dp"
-        android:layout_height="50dp"
+        android:layout_width="@dimen/width"
+        android:layout_height="@dimen/height"
         android:layout_marginTop="236dp"
         android:layout_marginEnd="8dp"
         android:ems="10"
@@ -89,8 +89,8 @@
 
     <EditText
         android:id="@+id/adjTE"
-        android:layout_width="200dp"
-        android:layout_height="50dp"
+        android:layout_width="@dimen/width"
+        android:layout_height="@dimen/height"
         android:layout_marginTop="44dp"
         android:layout_marginEnd="8dp"
         android:ems="10"
@@ -100,8 +100,8 @@
 
     <EditText
         android:id="@+id/nounTE"
-        android:layout_width="200dp"
-        android:layout_height="50dp"
+        android:layout_width="@dimen/width"
+        android:layout_height="@dimen/height"
         android:layout_marginTop="108dp"
         android:layout_marginEnd="8dp"
         android:ems="10"
@@ -111,8 +111,8 @@
 
     <TextView
         android:id="@+id/AdverbTV"
-        android:layout_width="200dp"
-        android:layout_height="50dp"
+        android:layout_width="@dimen/width"
+        android:layout_height="@dimen/height"
         android:layout_marginTop="172dp"
         android:layout_marginEnd="208dp"
         android:paddingLeft="50dp"
